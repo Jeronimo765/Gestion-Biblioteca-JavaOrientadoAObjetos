@@ -21,7 +21,7 @@ public class MainBiblioteca {
         biblioteca.registrarUsuario(usuario2);
 
         
-        System.out.println(" Estado inicial ");
+        System.out.println("\n Estado inicial ");
         biblioteca.mostrarLibrosDisponibles();
         biblioteca.mostrarUsuarios();
 
